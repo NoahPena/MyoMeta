@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0B10F199-46E3-93FE-C704-3E0E6FB25087}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Full v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile>Assets\smcs.rsp</CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneOSXIntel:4</UnityBuildTarget>
+    <UnityVersion>5.2.2f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_2_2;UNITY_5_2;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_REFLECTION_BUFFERS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_32;UNITY_EDITOR_WIN;</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_2_2;UNITY_5_2;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_REFLECTION_BUFFERS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_32;UNITY_EDITOR_WIN;</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library\UnityAssemblies\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>Assets\System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="Vectrosity">
+      <HintPath>Assets\Meta Packages\Vectrosity\Vectrosity.dll</HintPath>
+    </Reference>
+    <Reference Include="Meta">
+      <HintPath>Assets\MetaDLL\Meta.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>Assets\Plugins\x86\System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="XInputDotNetPure">
+      <HintPath>Assets\Plugins\x86\XInputDotNetPure.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\CodeIWrote\CameraShit.cs" />
+    <Compile Include="Assets\CodeIWrote\GlobalVariables.cs" />
+    <Compile Include="Assets\CodeIWrote\NavigationScript.cs" />
+    <Compile Include="Assets\CodeIWrote\Weather.cs" />
+    <Compile Include="Assets\Meta\MetaApps\Meta SDK Guide\SDK Guide Scripts\GazeableTestScript.cs" />
+    <Compile Include="Assets\Meta\MetaApps\Meta SDK Guide\SDK Guide Scripts\MetaSDKGuideApp.cs" />
+    <Compile Include="Assets\Meta\MetaApps\Meta SDK Guide\SDK Guide Scripts\OnGrabTestScript.cs" />
+    <Compile Include="Assets\Meta\MetaApps\Meta SDK Guide\SDK Guide Scripts\OnPinchTestScript.cs" />
+    <Compile Include="Assets\Meta\MetaApps\Meta SDK Guide\SDK Guide Scripts\OnSwipeTestScript.cs" />
+    <Compile Include="Assets\Meta\MetaApps\Meta SDK Guide\SDK Guide Scripts\OnTouchEnterTestScript.cs" />
+    <Compile Include="Assets\Meta\MetaApps\Meta Welcome\Scripts\MetaWelcome.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Apparatus\Input.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Apparatus\Output.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Autopilot.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\Emergency.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\EmergencyReset.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\FlatTrim.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\Hover.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\Altitude.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\EmergencyResetting.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\EmergencySetting.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\FlatTrimming.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\Heading.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\Hovering.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\IEarlyObtainer.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\IObtainer.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\Intent.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\IntentObtainer.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\Landing.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\SetGaz.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\SetPitch.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\SetRoll.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\SetYaw.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\Takingoff.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\VelocityIntent.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\VelocityX.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\IntentObtainers\VelocityY.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\Land.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\Objective.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Objectives\Takeoff.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Tools\Arithmetics.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Tools\Time\Duration.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Avionics\Tools\Time\Expiration.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\AtCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\CalibrateCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\ComWdgCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\CommandSender.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\ConfigCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\ConfigIdsCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\ControlCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\ControlMode.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\Device.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\FlatTrimCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\FlightMode.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\ProgressWithMagnetoCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\ProgressiveCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\RefCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Command\RefMode.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\ConfigurationAcquisition.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\FlightAnimation.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\FlightAnimationType.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\LedAnimation.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\LedAnimationType.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\NavdataOptions.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\SectionBase.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\Sections.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Sections.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\Settings.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\UserboxCommand.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\UserboxCommandType.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\VideoBitrateControlMode.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\VideoChannelType.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Configuration\VideoCodecType.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\DroneClient.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\EnumHelper.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Navigation\NavdataAcquisition.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\NetworkConfiguration.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Properties\AssemblyInfo.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\StateRequest.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Video\Native\parrot_video_encapsulation_frametypes_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Video\Native\parrot_video_encapsulation_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Video\VideoAcquisition.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Client\Video\VideoFrameTypeConverter.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\ConversionHelper.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\EnumExtensions.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\CTRL_STATES.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\FLYING_STATES.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Math\matrix33_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Math\vector21_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Math\vector31_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\NavdataBag.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\NavdataBagParser.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_adc_data_frame_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_altitude_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_cks_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_demo_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_euler_angles_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_games_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_gyros_offsets_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_hdvideo_stream_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_kalman_pressure_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_magneto_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_phys_measures_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_pressure_raw_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_pwm_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_raw_measures_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_rc_references_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_references_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_time_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_trackers_send_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_trims_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_video_stream_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_vision_detect_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_vision_of_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_vision_perf_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_vision_raw_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_vision_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_watchdog_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_wifi_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\navdata_wind_speed_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\screen_point_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\Options\velocities_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\def_ardrone_state_mask_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\navdata_option_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\navdata_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\Native\navdata_tag_t.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\NavdataConverter.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\NavigationData.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\NavigationPacketParser.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\Navigation\NavigationState.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\NavigationPacket.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\VideoFrameType.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Data\VideoPacket.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Infrastructure\ConcurrentQueueHelper.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Infrastructure\DisposableBase.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Infrastructure\InteropHelper.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Infrastructure\WorkerBase.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Media\PacketReader.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Media\PacketRecorder.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Media\PacketType.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Media\PacketWriter.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\Exceptions\VideoConverterException.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\Exceptions\VideoDecoderException.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\PixelFormat.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\PixelFormatConverter.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\VideoConverter.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\VideoDecoder.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\VideoFrame.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\VideoPacketDecoder.cs" />
+    <Compile Include="Assets\Scripts\AR.Drone.Video\VideoPacketDecoderWorker.cs" />
+    <Compile Include="Assets\Scripts\CurveScript.cs" />
+    <Compile Include="Assets\Scripts\DroneController.cs" />
+    <Compile Include="Assets\Scripts\FFmpeg.AutoGen\FFmpegInvoke.cs" />
+    <Compile Include="Assets\Scripts\ManagedWifiAPI\Interop.cs" />
+    <Compile Include="Assets\Scripts\ManagedWifiAPI\WlanApi.cs" />
+    <Compile Include="Assets\Scripts\Server.cs" />
+    <Compile Include="Assets\Scripts\TheShitThaDoesAllTheShit.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Scripts\AR.Drone.Client\Configuration\Sections.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Sections.cs</LastGenOutput>
+    </None>
+    <None Include="Assets\Meta Packages\HighlightingSystem\Resources\HighlightingBlur.shader" />
+    <None Include="Assets\Meta Packages\HighlightingSystem\Resources\HighlightingComposite.shader" />
+    <None Include="Assets\Meta Packages\HighlightingSystem\Resources\HighlightingInclude.cginc" />
+    <None Include="Assets\Meta Packages\HighlightingSystem\Resources\HighlightingStencilOpaque.shader" />
+    <None Include="Assets\Meta Packages\HighlightingSystem\Resources\HighlightingStencilOpaqueZ.shader" />
+    <None Include="Assets\Meta Packages\HighlightingSystem\Resources\HighlightingStencilTransparent.shader" />
+    <None Include="Assets\Meta Packages\HighlightingSystem\Resources\HighlightingStencilTransparentZ.shader" />
+    <None Include="Assets\Meta Packages\LeanTween\LeanTween-ReadMe.txt" />
+    <None Include="Assets\Meta Packages\Vectrosity\Documentation\Vectrosity Upgrade Guide.txt" />
+    <None Include="Assets\Meta Packages\Vectrosity\Documentation\Vectrosity changelog.txt" />
+    <None Include="Assets\Meta Packages\Vectrosity\Documentation\What to import!.txt" />
+    <None Include="Assets\Meta\MetaCore\Shaders\MetaXrayEffect.shader" />
+    <None Include="Assets\Meta\MetaCore\Shaders\TransparentUnlit.shader" />
+    <None Include="Assets\Meta\MetaDocs\META EULA.txt" />
+    <None Include="Assets\Meta\MetaSpace\MetaFonts\Arial Bold\3DTextTextured.shader" />
+    <None Include="Assets\Meta\MetaSpace\Shaders\Particle AddMeta.shader" />
+    <None Include="Assets\Meta\MetaSpace\Shaders\Shaders\Shield.shader" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
+</Project>

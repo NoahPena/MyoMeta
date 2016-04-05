@@ -1,0 +1,48 @@
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\Meta.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\Vectrosity.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\obj\Debug\Assembly-CSharp.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\System.Threading.dll
+C:\Users\Noah\Desktop\Meta1\Workstation\Getting Weather Data\Temp\bin\Debug\XInputDotNetPure.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\Meta.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\System.Threading.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\Vectrosity.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\XInputDotNetPure.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\obj\Debug\Assembly-CSharp.dll
+C:\Users\Noah\Desktop\iFuckedUp\Workstation\Getting Weather Data\obj\Debug\Assembly-CSharp.pdb
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\Meta.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\System.Threading.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\UnityEditor.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\UnityEngine.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\Vectrosity.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\XInputDotNetPure.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\nunit.framework.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\npena9\Desktop\MetaMyo\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\npena9\Desktop\MetaMyo\obj\Debug\Assembly-CSharp.dll
+C:\Users\npena9\Desktop\MetaMyo\obj\Debug\Assembly-CSharp.pdb
+C:\Users\npena9\Desktop\MetaMyo\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache

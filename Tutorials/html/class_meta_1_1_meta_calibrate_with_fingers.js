@@ -1,0 +1,38 @@
+var class_meta_1_1_meta_calibrate_with_fingers =
+[
+    [ "CalibrationDesign", "class_meta_1_1_meta_calibrate_with_fingers.html#ac1c0f6366ba9f30bb4f1391e4aa6dec4", [
+      [ "Cloud", "class_meta_1_1_meta_calibrate_with_fingers.html#ac1c0f6366ba9f30bb4f1391e4aa6dec4ac8e2277ecfb1427838c488c217f99466", null ],
+      [ "Fingertip", "class_meta_1_1_meta_calibrate_with_fingers.html#ac1c0f6366ba9f30bb4f1391e4aa6dec4a98c302f9336ae455772b4783594c3e3a", null ],
+      [ "CircleDot", "class_meta_1_1_meta_calibrate_with_fingers.html#ac1c0f6366ba9f30bb4f1391e4aa6dec4ab7ac7ef0fff6325de4aedb6c0595dd19", null ],
+      [ "Marker", "class_meta_1_1_meta_calibrate_with_fingers.html#ac1c0f6366ba9f30bb4f1391e4aa6dec4a0235c996b43b3799573658df41ef82f2", null ]
+    ] ],
+    [ "ConfirmSettings", "class_meta_1_1_meta_calibrate_with_fingers.html#af232ff28b24bcdb75b49e36bcfbbe65e", null ],
+    [ "Recalibrate", "class_meta_1_1_meta_calibrate_with_fingers.html#af500301564dc71a7e9703bfdbe74ef61", null ],
+    [ "SelectFOVLens", "class_meta_1_1_meta_calibrate_with_fingers.html#aa6e5394488456df080671c7088d84b0e", null ],
+    [ "SelectShadeLens", "class_meta_1_1_meta_calibrate_with_fingers.html#a015ae42f6c34fdfa90fdb4fbb93c715e", null ],
+    [ "SetReach", "class_meta_1_1_meta_calibrate_with_fingers.html#ab57c39c5d5d3b84b9d4d1df7edef1644", null ],
+    [ "SetReachDistance", "class_meta_1_1_meta_calibrate_with_fingers.html#ae03b6f29c715b9e4857b581cb3130d56", null ],
+    [ "basketball", "class_meta_1_1_meta_calibrate_with_fingers.html#a169c1cea97f00f6944abfe10db5e822e", null ],
+    [ "confirmationCanvas", "class_meta_1_1_meta_calibrate_with_fingers.html#ae5cf6ad2d44fe0ea3312a556cc854d54", null ],
+    [ "confirmButton", "class_meta_1_1_meta_calibrate_with_fingers.html#aa5542ab6828a0d19042e3b51c5e7e701", null ],
+    [ "fingerMessage", "class_meta_1_1_meta_calibrate_with_fingers.html#a07f44828f150ef0eab3723ed30962eb5", null ],
+    [ "fingerTracker", "class_meta_1_1_meta_calibrate_with_fingers.html#a1c6172b102ba3d658da4533db2eb1caf", null ],
+    [ "handFilled", "class_meta_1_1_meta_calibrate_with_fingers.html#ab9fd4046bf5f0a94fd7c3bf24338c718", null ],
+    [ "handOutline", "class_meta_1_1_meta_calibrate_with_fingers.html#ac9064bb9a826e766036a9e10c3dab406", null ],
+    [ "instructions", "class_meta_1_1_meta_calibrate_with_fingers.html#a3b95a0b4f625f17ba858d06fe5aec9e5", null ],
+    [ "interactionZoneVisualizer", "class_meta_1_1_meta_calibrate_with_fingers.html#afb5dcac4a1dae3f4c3177902dd89ceca", null ],
+    [ "leftCursor", "class_meta_1_1_meta_calibrate_with_fingers.html#a87cff42f00c95996cdcc0ccd2e708393", null ],
+    [ "lensCanvas", "class_meta_1_1_meta_calibrate_with_fingers.html#a9ae47955a6efb15db2e49b2dcf707139", null ],
+    [ "markerObject", "class_meta_1_1_meta_calibrate_with_fingers.html#a91e5ed31c59bdbdd835d638e4219e612", null ],
+    [ "maxCorrectionDistance", "class_meta_1_1_meta_calibrate_with_fingers.html#aa71427c48fcbf9f760b1cfebf4f8f927", null ],
+    [ "message", "class_meta_1_1_meta_calibrate_with_fingers.html#ae5cf6d9afdc0248f6e5defe660cb1854", null ],
+    [ "message2", "class_meta_1_1_meta_calibrate_with_fingers.html#a6628b2ff5882f4248bc77756fa61bff2", null ],
+    [ "MGUIStartLocation", "class_meta_1_1_meta_calibrate_with_fingers.html#ae6e5116a0d9a1c660b3f87bb9c27ac64", null ],
+    [ "reach", "class_meta_1_1_meta_calibrate_with_fingers.html#a14d1bd403b9b4f1351f014eadb4630d2", null ],
+    [ "recalibrateButton", "class_meta_1_1_meta_calibrate_with_fingers.html#a829d8a55139f5889a1bff328a8d49112", null ],
+    [ "rightCursor", "class_meta_1_1_meta_calibrate_with_fingers.html#abd6cf088fad4dc4d47b0a935de3890f5", null ],
+    [ "scalingFactor", "class_meta_1_1_meta_calibrate_with_fingers.html#a1e8241e088d2fda61e840a1d9875a167", null ],
+    [ "stallIndicator", "class_meta_1_1_meta_calibrate_with_fingers.html#a4dbc727cd90a44fbbe899c4668141b2a", null ],
+    [ "threshold", "class_meta_1_1_meta_calibrate_with_fingers.html#aca337f61de3ae1e3dfca11cfec63c0c6", null ],
+    [ "variance", "class_meta_1_1_meta_calibrate_with_fingers.html#a2731e6f456c046206683f487c3f65927", null ]
+];
